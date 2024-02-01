@@ -1,0 +1,300 @@
+{'cards': '台新銀行玫瑰Giving卡', 'domestic_rate': 3.0, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '聯邦銀行JCB吉鶴卡', 'domestic_rate': 1.5, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '滙豐銀行匯鑽卡', 'domestic_rate': 2.0, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '玉山銀行Pi 拍錢包信用卡', 'domestic_rate': 2.0, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '聯邦銀行LINE Bank 聯名信用卡', 'domestic_rate': 2.0, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '永豐銀行55688聯名卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '台灣企銀永續生活悠遊卡', 'domestic_rate': 2.0, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '合作金庫利high卡', 'domestic_rate': 3.0, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '華南銀行超鑽現金回饋卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '渣打銀行LINE Bank 聯名卡', 'domestic_rate': 2.0, 'card_issuer': 'Mastercard 世界', 'url': None}
+{'cards': '永豐銀行DAWHO現金回饋信用卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '渣打銀行現金回饋御璽卡', 'domestic_rate': 2.0, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '聯邦銀行賴點一卡通御璽卡', 'domestic_rate': 1.68, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '永豐銀行SPORT卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '星展銀行eco永續卡', 'domestic_rate': 1.5, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '華南銀行享利樂活Combo卡', 'domestic_rate': 0.3, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '上海銀行小小兵回饋卡', 'domestic_rate': 1.234, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '滙豐銀行現金回饋御璽卡', 'domestic_rate': 1.22, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '永豐銀行美安聯名卡', 'domestic_rate': 3.0, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '星展銀行優仕商務卡', 'domestic_rate': 1.2, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '元大銀行鑽金icash聯名卡', 'domestic_rate': 1.2, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '遠東商銀樂行卡', 'domestic_rate': 1.2, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '元大銀行iPASS現賺御璽卡', 'domestic_rate': 1.1, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '聯邦銀行幸福M卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '第一銀行一卡通聯名卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '玉山銀行熊本熊卡', 'domestic_rate': 1.0, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '台北富邦J POINTS卡', 'domestic_rate': 1.0, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '永豐銀行現金回饋卡', 'domestic_rate': 1.0, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '台北富邦momo卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '中國信託LINE Pay信用卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '永豐銀行永傳世界卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 世界商務', 'url': None}
+{'cards': '玉山銀行Pi 拍兔簽帳金融卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard Debit', 'url': None}
+{'cards': '新光銀行寰宇現金回饋卡', 'domestic_rate': 0.6, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '陽信銀行JCB晶緻卡', 'domestic_rate': 1.0, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '上海銀行簡單卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '玉山銀行雙幣卡', 'domestic_rate': 1.0, 'card_issuer': 'JCB 極緻', 'url': None}
+{'cards': '台北富邦IMPERIAL尊御世界卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 世界', 'url': None}
+{'cards': '台新銀行卓富無限卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '兆豐銀行Mega One 一卡通聯名卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 商務', 'url': None}
+{'cards': '中國信託Agoda聯名卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '兆豐銀行雙幣鈦金商旅卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '第一銀行御璽商旅卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '合作金庫VISA無限金鑽卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '台新銀行Gogoro Rewards聯名卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '中國信託My Way簽帳金融卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard Debit', 'url': None}
+{'cards': '台新銀行昇恆昌無限卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '臺灣銀行一卡通鈦金商旅卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '合作金庫MASTER世界卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 世界', 'url': None}
+{'cards': '兆豐銀行宇宙明星BT21信用卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '中國信託統一企業認同卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '合作金庫i享樂生活卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '第一銀行iLEO信用卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '台北富邦Open Possible聯名卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '合作金庫醫院卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '中國信託中華電信聯名卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 白金', 'url': None}
+{'cards': '兆豐銀行Gogoro聯名卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '合作金庫樂活卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '永豐銀行夢行卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '聯邦銀行綠卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '玉山銀行易遊卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '土地銀行極緻卡', 'domestic_rate': 1.0, 'card_issuer': 'JCB 極緻', 'url': None}
+{'cards': '華南銀行Rich+富家卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '土地銀行icash2.0聯名鈦金卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '凱基銀行凱基尊富無限卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '華南銀行臺灣大學卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '中國信託TAIPEI 101 聯名卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '玉山銀行U Bear信用卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '台新銀行遠傳friDay聯名卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '中國信託Yahoo聯名卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '彰化銀行My購卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '玉山銀行數位e卡寵生活版', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 白金', 'url': None}
+{'cards': '合作金庫卡娜赫拉icash聯名卡(夢想藍)', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '中國信託LINE Pay簽帳金融卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA Debit', 'url': None}
+{'cards': '台新銀行街口聯名卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '合作金庫卡娜赫拉icash聯名卡(幸福粉)', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '台北富邦Costco聯名卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '玉山銀行數位e卡輕時尚版', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 白金', 'url': None}
+{'cards': '土地銀行澎湖縣-澎湖iPASS', 'domestic_rate': 1.0, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '王道銀行O-Bank簽帳金融卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard Debit', 'url': None}
+{'cards': '彰化銀行Mastercard世界卡', 'domestic_rate': 0.8, 'card_issuer': 'Mastercard 世界', 'url': None}
+{'cards': '上海銀行Teresa Card悠遊極緻卡', 'domestic_rate': 0.8, 'card_issuer': 'JCB 極緻', 'url': None}
+{'cards': '聯邦銀行無限卡', 'domestic_rate': 0.8, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '華南銀行臺灣大學卡', 'domestic_rate': 0.8, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '中國信託鼎極卡', 'domestic_rate': 0.8, 'card_issuer': 'Mastercard 世界', 'url': None}
+{'cards': '合作金庫晶片COMBO卡', 'domestic_rate': 0.8, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '凱基銀行魔BUY悠遊鈦金卡', 'domestic_rate': 0.7, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '台北富邦數位生活卡', 'domestic_rate': 0.7, 'card_issuer': 'JCB 白金', 'url': None}
+{'cards': '聯邦銀行樂活悠遊鈦金卡', 'domestic_rate': 0.7, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '台北富邦鑽保卡', 'domestic_rate': 0.7, 'card_issuer': 'VISA 白金', 'url': None}
+{'cards': '聯邦銀行理財型白金卡', 'domestic_rate': 0.7, 'card_issuer': 'Mastercard 白金', 'url': None}
+{'cards': '永豐銀行財富無限卡', 'domestic_rate': 0.68, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '玉山銀行統一時代icash聯名卡', 'domestic_rate': 0.67, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '永豐銀行鈦豐卡', 'domestic_rate': 0.67, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '遠東商銀快樂信用卡(悠遊)', 'domestic_rate': 10.0, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '兆豐銀行利多御璽卡', 'domestic_rate': 0.6, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '陽信銀行VISA曜晶卡', 'domestic_rate': 0.6, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '彰化銀行商旅御璽卡', 'domestic_rate': 0.6, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '新光銀行鼎鑽財富無限卡', 'domestic_rate': 0.6, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '永豐銀行國際學生證Debit卡', 'domestic_rate': 0.6, 'card_issuer': 'Mastercard Debit', 'url': None}
+{'cards': '上海銀行國防醫學院校友會聯名卡', 'domestic_rate': 0.6, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '永豐銀行現金回饋Debit卡', 'domestic_rate': 0.6, 'card_issuer': 'Mastercard Debit', 'url': None}
+{'cards': '台新銀行大買家聯名卡', 'domestic_rate': 0.6, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '國泰世華世界卡', 'domestic_rate': 0.6, 'card_issuer': 'Mastercard 世界', 'url': None}
+{'cards': '玉山銀行JCB晶緻悠遊卡', 'domestic_rate': 0.6, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '中國信託寰遊美國運通卡', 'domestic_rate': 0.6, 'card_issuer': 'American Express 金', 'url': None}
+{'cards': '台新銀行幸福加值卡', 'domestic_rate': 0.6, 'card_issuer': 'VISA 普', 'url': None}
+{'cards': '臺灣銀行Visa達人金融卡', 'domestic_rate': 0.6, 'card_issuer': 'VISA Debit', 'url': None}
+{'cards': '玉山銀行雙幣卡', 'domestic_rate': 0.6, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '台新銀行FlyGo卡', 'domestic_rate': 0.5, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '遠東商銀樂家⁺卡', 'domestic_rate': 0.5, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '中國信託現金回饋鈦金卡-雙幣卡', 'domestic_rate': 0.5, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '將來銀行VISA簽帳金融卡', 'domestic_rate': 0.5, 'card_issuer': 'VISA Debit', 'url': None}
+{'cards': '台灣企銀藝FUN悠遊御璽卡', 'domestic_rate': 0.5, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '台新銀行旺卡', 'domestic_rate': 0.5, 'card_issuer': 'Mastercard 世界商務', 'url': None}
+{'cards': '國泰世華現金回饋御璽卡', 'domestic_rate': 0.5, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '台新銀行財富無限卡', 'domestic_rate': 0.5, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '星展銀行PChome Prime聯名卡', 'domestic_rate': 0.5, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '合作金庫鹿港天后宮認同卡', 'domestic_rate': 0.5, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '聯邦銀行幸福御守卡/粉', 'domestic_rate': 0.5, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '台新銀行昇恆昌聯名卡', 'domestic_rate': 0.5, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '元大銀行分享黑啤卡', 'domestic_rate': 0.5, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '彰化銀行My樂現金回饋卡', 'domestic_rate': 0.5, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '合作金庫漢來美食聯名卡', 'domestic_rate': 0.5, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '台新銀行葡眾聯名卡', 'domestic_rate': 0.5, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '臺灣銀行一卡通導盲犬認同卡', 'domestic_rate': 0.5, 'card_issuer': 'Mastercard 商務白金', 'url': None}
+{'cards': '台新銀行@GoGo虛擬御璽卡', 'domestic_rate': 0.5, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '兆豐銀行e秒刷鈦金卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '第一銀行Wonderful星璨卡', 'domestic_rate': 0.5, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '台北富邦財神一卡通聯名卡', 'domestic_rate': 0.5, 'card_issuer': 'Mastercard 白金', 'url': None}
+{'cards': '中國信託Mitsui Shopping Park LaLaport聯名卡', 'domestic_rate': 0.5, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '第一銀行VISA金融卡', 'domestic_rate': 0.5, 'card_issuer': 'VISA Debit', 'url': None}
+{'cards': '聯邦銀行農金一卡通聯名卡', 'domestic_rate': 0.5, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '台新銀行三商美邦聯名卡', 'domestic_rate': 0.5, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '凱基銀行魔FUN悠遊御璽卡', 'domestic_rate': 0.5, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': 'LINE Bank簽帳金融卡', 'domestic_rate': 0.5, 'card_issuer': 'VISA Debit', 'url': None}
+{'cards': '國泰世華台塑聯名卡', 'domestic_rate': 0.5, 'card_issuer': 'Mastercard 白金', 'url': None}
+{'cards': '華南銀行華南櫃買贏家生活卡', 'domestic_rate': 0.5, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '台灣企銀VISA 金融卡', 'domestic_rate': 0.5, 'card_issuer': 'VISA Debit', 'url': None}
+{'cards': '第一銀行i-Fun愛玩樂卡', 'domestic_rate': 0.5, 'card_issuer': 'Mastercard 白金', 'url': None}
+{'cards': '中國信託TAIPEI 101 聯名卡', 'domestic_rate': 0.5, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '第一銀行iLEO VISA金融卡', 'domestic_rate': 0.5, 'card_issuer': 'VISA Debit', 'url': None}
+{'cards': '台灣企銀銀色之愛卡', 'domestic_rate': 0.4, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '兆豐銀行e秒Happy悠遊鈦金卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '第一銀行長庚紀念醫院悠遊認同卡', 'domestic_rate': 0.4, 'card_issuer': 'VISA 白金', 'url': None}
+{'cards': '玉山銀行教師卡', 'domestic_rate': 0.4, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '永豐銀行美樂家生活卡', 'domestic_rate': 0.4, 'card_issuer': 'JCB 白金', 'url': None}
+{'cards': '國泰世華CUBE卡', 'domestic_rate': 0.3, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '上海銀行牙醫師全聯會悠遊卡', 'domestic_rate': 0.3, 'card_issuer': 'Mastercard 世界', 'url': None}
+{'cards': '合作金庫日圓雙幣卡', 'domestic_rate': 0.3, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '國泰世華雙幣卡', 'domestic_rate': 0.3, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '新光銀行極緻卡', 'domestic_rate': 0.3, 'card_issuer': 'JCB 極緻', 'url': None}
+{'cards': '玉山銀行漢神巨蛋聯名卡', 'domestic_rate': 0.3, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '台新銀行棉花田聯名卡', 'domestic_rate': 0.3, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '國泰世華雙幣卡', 'domestic_rate': 0.3, 'card_issuer': 'Mastercard 白金', 'url': None}
+{'cards': '台新銀行Mercedes-Benz信用卡', 'domestic_rate': 0.3, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '國泰世華ｉ刷金融卡', 'domestic_rate': 0.3, 'card_issuer': 'VISA Debit', 'url': None}
+{'cards': '新光銀行OU點點卡', 'domestic_rate': 0.3, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '玉山銀行Debit金融卡', 'domestic_rate': 0.3, 'card_issuer': 'VISA Debit', 'url': None}
+{'cards': '永豐銀行MITSUI OUTLET PARK卡', 'domestic_rate': 0.3, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '新光銀行悠遊聯名晶緻卡', 'domestic_rate': 0.3, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '上海銀行悠遊ONE卡', 'domestic_rate': 0.3, 'card_issuer': 'VISA 普', 'url': None}
+{'cards': '台新銀行新光三越聯名卡', 'domestic_rate': 0.3, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '聯邦銀行F1加油卡', 'domestic_rate': 0.3, 'card_issuer': 'Mastercard 金', 'url': None}
+{'cards': '國泰世華eTag聯名卡', 'domestic_rate': 0.3, 'card_issuer': 'Mastercard 白金', 'url': None}
+{'cards': '台新銀行新光三越聯名卡', 'domestic_rate': 0.3, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '彰化銀行MasterCard鈦金卡', 'domestic_rate': 0.3, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '元大銀行愛PASS鈦金卡', 'domestic_rate': 0.3, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '上海銀行PukiiBank悠遊Debit卡', 'domestic_rate': 0.3, 'card_issuer': 'VISA Debit', 'url': None}
+{'cards': '彰化銀行悠遊聯名卡', 'domestic_rate': 0.3, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '永豐銀行保倍卡', 'domestic_rate': 2.0, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '玉山銀行icash聯名卡', 'domestic_rate': 0.2, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '第一銀行i-FIRST生活卡', 'domestic_rate': 0.2, 'card_issuer': 'Mastercard 金', 'url': None}
+{'cards': '台新銀行玫瑰卡', 'domestic_rate': 0.2, 'card_issuer': 'Mastercard 白金', 'url': None}
+{'cards': '遠東商銀Bankee信用卡', 'domestic_rate': 0.15, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '第一銀行白金商旅卡', 'domestic_rate': 0.1, 'card_issuer': 'Mastercard 商務白金', 'url': None}
+{'cards': '國泰世華蝦皮購物聯名卡', 'domestic_rate': 0.5, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '台灣樂天樂虎卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '合作金庫Winner悠遊聯名卡', 'domestic_rate': 97.0, 'card_issuer': 'VISA 白金', 'url': None}
+{'cards': '台北富邦福華聯名卡', 'domestic_rate': 10.0, 'card_issuer': 'Mastercard 白金', 'url': None}
+{'cards': '第一銀行鈦金商旅卡', 'domestic_rate': 3.2, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '中國信託雙幣商務卡', 'domestic_rate': 5.0, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '兆豐銀行統一7-ELEVEN獅聯名卡', 'domestic_rate': 2.0, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '凱基銀行凱基無限卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '玉山銀行世界卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 世界', 'url': None}
+{'cards': '第一銀行GLORY+世界卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 世界', 'url': None}
+{'cards': '新光銀行義大世界聯名卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '中國信託大中華攜手飛聯名卡', 'domestic_rate': None, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '玉山銀行商務御璽卡', 'domestic_rate': None, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '台中銀行Master媽祖悠遊商旅白金卡', 'domestic_rate': 10.0, 'card_issuer': 'Mastercard 商務白金', 'url': None}
+{'cards': '玉山銀行Only卡', 'domestic_rate': 10.0, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '星展銀行飛行世界之極卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 世界之極', 'url': None}
+{'cards': '中國信託學學認同卡', 'domestic_rate': 97.0, 'card_issuer': 'VISA 白金', 'url': None}
+{'cards': '兆豐銀行原子小金剛卡', 'domestic_rate': 97.0, 'card_issuer': 'VISA 白金', 'url': None}
+{'cards': '聯邦銀行經典御璽卡', 'domestic_rate': 1.0, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '兆豐銀行VISA金融卡', 'domestic_rate': 97.0, 'card_issuer': 'VISA Debit', 'url': None}
+{'cards': '華南銀行Combo Life卡', 'domestic_rate': 97.0, 'card_issuer': 'VISA 金', 'url': None}
+{'cards': '土地銀行麟洋羽球認同卡', 'domestic_rate': 0.8, 'card_issuer': 'VISA 金', 'url': None}
+{'cards': '兆豐銀行生活工場聯名卡', 'domestic_rate': 0.72, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '美國運通信用金卡', 'domestic_rate': 0.33, 'card_issuer': 'American Express 金', 'url': None}
+{'cards': '兆豐銀行兆豐悠遊聯名卡', 'domestic_rate': 0.25, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '美國運通長榮航空簽帳白金卡', 'domestic_rate': None, 'card_issuer': 'American Express 簽帳白金', 'url': None}
+{'cards': '華南銀行Combo Life卡', 'domestic_rate': 12.0, 'card_issuer': 'JCB 白金', 'url': None}
+{'cards': '合作金庫臺灣菸酒採購卡', 'domestic_rate': 6.0, 'card_issuer': 'Mastercard 商務', 'url': None}
+{'cards': '第一銀行媚儷鈦金卡', 'domestic_rate': 0.7, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '陽信銀行VISA商務御璽卡', 'domestic_rate': 97.0, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '第一銀行icash聯名卡', 'domestic_rate': None, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '台中銀行MasterCard世界卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 世界', 'url': None}
+{'cards': '兆豐銀行無限卡', 'domestic_rate': None, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '台新銀行歐元雙幣卡', 'domestic_rate': None, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '華南銀行夢時代聯名卡(icash)', 'domestic_rate': None, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '兆豐銀行世界卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 世界', 'url': None}
+{'cards': '聯邦銀行理財型無限卡', 'domestic_rate': None, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '台中銀行My Sense悠遊御璽卡', 'domestic_rate': None, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '遠東商銀頂級快樂卡', 'domestic_rate': None, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '上海銀行小小兵分期卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '新光銀行世界卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 世界', 'url': None}
+{'cards': '第一銀行悠遊聯名卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 普', 'url': None}
+{'cards': '永豐銀行SPORT Debit卡', 'domestic_rate': None, 'card_issuer': 'Mastercard Debit', 'url': None}
+{'cards': '遠東商銀New Century 信用卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 普', 'url': None}
+{'cards': '凱基銀行悠遊聯名VISA白金卡', 'domestic_rate': None, 'card_issuer': 'VISA 白金', 'url': None}
+{'cards': '元大銀行富貴無限卡', 'domestic_rate': None, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '台灣企銀VISA信用卡', 'domestic_rate': None, 'card_issuer': 'VISA 普', 'url': None}
+{'cards': '華南銀行i網購生活卡', 'domestic_rate': None, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '安泰銀行JCB晶緻卡', 'domestic_rate': None, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '台中銀行JCB瑪利亞晶緻卡', 'domestic_rate': None, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '台北富邦數位生活icash聯名卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '玉山銀行家樂福悠遊聯名卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 白金', 'url': None}
+{'cards': '聯邦銀行微風一卡通聯名卡', 'domestic_rate': 1.0, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '第一銀行Living Green綠活卡', 'domestic_rate': None, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '中國信託紅利卡(時尚高手)', 'domestic_rate': None, 'card_issuer': 'VISA 普', 'url': None}
+{'cards': '兆豐銀行MEGA VISA', 'domestic_rate': None, 'card_issuer': 'VISA 普', 'url': None}
+{'cards': '星展銀行炫晶御璽卡', 'domestic_rate': None, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '上海銀行建築師公會認同卡', 'domestic_rate': None, 'card_issuer': 'VISA 金', 'url': None}
+{'cards': '台新銀行大潤發聯名卡', 'domestic_rate': None, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '新光銀行ESG白金卡', 'domestic_rate': None, 'card_issuer': 'VISA 白金', 'url': None}
+{'cards': '聯邦銀行全國加油一卡通聯名卡', 'domestic_rate': None, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '國泰世華國泰人壽聯名卡', 'domestic_rate': None, 'card_issuer': 'VISA 普', 'url': None}
+{'cards': '台新銀行Richart金融卡(白/綠狗卡)', 'domestic_rate': None, 'card_issuer': 'VISA Debit', 'url': None}
+{'cards': '彰化銀行普卡', 'domestic_rate': None, 'card_issuer': 'VISA 普', 'url': None}
+{'cards': '台灣樂天信用卡', 'domestic_rate': None, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '元大銀行分享御璽卡', 'domestic_rate': None, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '上海銀行悠遊Debit卡', 'domestic_rate': None, 'card_issuer': 'VISA Debit', 'url': None}
+{'cards': '元大銀行i-Go Card', 'domestic_rate': None, 'card_issuer': 'VISA 商務御璽', 'url': None}
+{'cards': '華南銀行領航極致尊榮卡', 'domestic_rate': None, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '高雄銀行高雄市政府認同卡', 'domestic_rate': None, 'card_issuer': 'VISA 金', 'url': None}
+{'cards': '華泰商銀VISA金卡', 'domestic_rate': None, 'card_issuer': 'VISA 金', 'url': None}
+{'cards': '渣打銀行昇利卡(紅利積點)', 'domestic_rate': None, 'card_issuer': 'VISA 白金', 'url': None}
+{'cards': '土地銀行雲林縣-我愛雲林', 'domestic_rate': None, 'card_issuer': 'VISA 金', 'url': None}
+{'cards': '臺灣銀行相片卡', 'domestic_rate': None, 'card_issuer': 'VISA 金', 'url': None}
+{'cards': '三信商銀一般晶片卡', 'domestic_rate': None, 'card_issuer': 'VISA 普', 'url': None}
+{'cards': '華南銀行SnY簽帳金融卡', 'domestic_rate': None, 'card_issuer': 'VISA Debit', 'url': None}
+{'cards': '王道銀行cama café VISA聯名卡', 'domestic_rate': None, 'card_issuer': 'VISA Debit', 'url': None}
+{'cards': '新光銀行新光Visa金融卡', 'domestic_rate': None, 'card_issuer': 'VISA Debit', 'url': None}
+{'cards': '王道銀行財富管理頂級簽帳金融卡', 'domestic_rate': None, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '華南銀行美饌遨遊卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 世界', 'url': None}
+{'cards': '中國信託酷玩卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '美國運通信用白金卡', 'domestic_rate': None, 'card_issuer': 'American Express 白金', 'url': None}
+{'cards': '新光銀行美麗華百樂卡', 'domestic_rate': 0.9, 'card_issuer': 'Mastercard 鈦金商務', 'url': None}
+{'cards': '中國信託鼎極卡', 'domestic_rate': 0.8, 'card_issuer': 'JCB 極緻', 'url': None}
+{'cards': '華南銀行嘟嘟房聯名卡', 'domestic_rate': 0.8, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '元大銀行MAZDA天空卡', 'domestic_rate': 0.6, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '台新銀行大潤發聯名卡', 'domestic_rate': 0.5, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '聯邦銀行世界卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 世界', 'url': None}
+{'cards': '美國運通晶華珍饌信用白金卡', 'domestic_rate': 0.33, 'card_issuer': 'American Express 白金', 'url': None}
+{'cards': '華南銀行美饌紅利卡', 'domestic_rate': 0.3, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '中國信託紅利卡(時尚高手)', 'domestic_rate': 0.27, 'card_issuer': 'JCB 普', 'url': None}
+{'cards': '上海銀行寶吉祥聯名卡', 'domestic_rate': 0.25, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '華南銀行Love晶緻悠遊聯名卡酷愛黑卡', 'domestic_rate': 0.2, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '臺灣銀行金采卡', 'domestic_rate': 0.2, 'card_issuer': 'Mastercard 白金', 'url': None}
+{'cards': '聯邦銀行全國加油一卡通聯名卡', 'domestic_rate': 0.17, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '星展銀行everyday鈦金卡', 'domestic_rate': 0.16, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '台灣樂天信用卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '兆豐銀行MEGA JCB', 'domestic_rate': None, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '新光銀行新光銀行白金卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 白金', 'url': None}
+{'cards': '兆豐銀行公司商務鈦金卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 商務', 'url': None}
+{'cards': '美國運通簽帳白金卡', 'domestic_rate': None, 'card_issuer': 'American Express 簽帳白金', 'url': None}
+{'cards': '元大銀行分享鈦金卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '台新銀行國泰航空鈦金卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '中國信託現金回饋鈦金卡(鈦有利)', 'domestic_rate': None, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '上海銀行牙醫師公會認同卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 白金', 'url': None}
+{'cards': '聯邦銀行大統百貨聯名卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 金', 'url': None}
+{'cards': '國泰世華國泰人壽聯名卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 普', 'url': None}
+{'cards': '王道銀行新北國王聯名卡', 'domestic_rate': None, 'card_issuer': 'Mastercard Debit', 'url': None}
+{'cards': '永豐銀行興大分行限定版Debit卡', 'domestic_rate': None, 'card_issuer': 'Mastercard Debit', 'url': None}
+{'cards': '彰化銀行普卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 普', 'url': None}
+{'cards': '國泰世華長榮航空聯名卡', 'domestic_rate': None, 'card_issuer': 'VISA 御璽', 'url': None}
+{'cards': '華南銀行新竹市民認同卡', 'domestic_rate': None, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '高雄銀行高雄going鈦金卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '華泰商銀JCB晶緻卡', 'domestic_rate': None, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '土地銀行白沙屯拱天宮媽祖認同卡', 'domestic_rate': None, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '臺灣銀行祝福認同卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 商務白金', 'url': None}
+{'cards': '華南銀行金融卡', 'domestic_rate': None, 'card_issuer': 'JCB Debit', 'url': None}
+{'cards': '美國運通長榮航空簽帳金卡', 'domestic_rate': None, 'card_issuer': 'American Express 簽帳金卡', 'url': None}
+{'cards': '土地銀行康鉑晶片卡(房貸客戶專用)', 'domestic_rate': None, 'card_issuer': 'Mastercard 普', 'url': None}
+{'cards': '華南銀行PGO聯名卡', 'domestic_rate': None, 'card_issuer': 'JCB 晶緻', 'url': None}
+{'cards': '中國信託中華航空聯名卡-璀璨無限卡', 'domestic_rate': None, 'card_issuer': 'VISA 無限', 'url': None}
+{'cards': '華南銀行信望愛認同卡', 'domestic_rate': None, 'card_issuer': 'Mastercard 鈦金', 'url': None}
+{'cards': '王道銀行cama café Mastercard聯名卡', 'domestic_rate': None, 'card_issuer': 'Mastercard Debit', 'url': None}
+{'cards': '中國信託英雄聯盟簽帳金融卡', 'domestic_rate': None, 'card_issuer': 'Mastercard Debit', 'url': None}
+{'cards': '玉山銀行數位保險卡', 'domestic_rate': None, 'card_issuer': 'JCB 晶緻', 'url': None}
